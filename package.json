@@ -1,0 +1,12 @@
+{
+  "name": "kikugawa-bot",
+  "version": "1.0.0",
+  "description": "a token hider using netlify functions",
+  "main": ""
+  },
+  "author": "CivicTechLab",
+  "license": ""
+  },
+  "dependencies": {
+  }
+}
